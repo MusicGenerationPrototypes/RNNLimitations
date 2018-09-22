@@ -1,6 +1,7 @@
 """
 Midi-уровневый интерфейс для файлов python
 Информация об управлении MIDI-файлами взята с официального источника mido.
+Код частично адаптирован из https://github.com/Conchylicultor/MusicGenerator
 """
 
 import mido  # Midi lib
