@@ -1,6 +1,6 @@
 """
 Модель для генерации новых композиций
-
+Код частично адаптирован из https://github.com/Conchylicultor/MusicGenerator
 """
 
 import numpy as np  # Для генерации случайных чисел
