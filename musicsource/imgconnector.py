@@ -1,6 +1,6 @@
 """
 В планах воспроизведение и генерация картинок = треков
-
+Код частично адаптирован из https://github.com/Conchylicultor/MusicGenerator
 """
 
 #import cv2 as cv 
