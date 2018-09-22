@@ -1,4 +1,6 @@
-""" Запись всех модулей
+""" 
+Запись всех модулей
+Код частично адаптирован из https://github.com/Conchylicultor/MusicGenerator
 """
 
 from musicsource.modulemanager import ModuleManager
