@@ -1,5 +1,6 @@
 """
 Загрузка midi-композиций, построение датасета
+Код частично адаптирован из https://github.com/Conchylicultor/MusicGenerator
 """
 
 from tqdm import tqdm  
