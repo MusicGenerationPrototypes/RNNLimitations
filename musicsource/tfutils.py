@@ -1,5 +1,6 @@
 """
 Вспомогательные функции для НС (взято с tf)
+Код частично адаптирован из https://github.com/Conchylicultor/MusicGenerator
 """
 
 import tensorflow as tf
