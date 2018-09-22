@@ -1,5 +1,6 @@
 """
 Основной блок, предсказывающий конфигурацию следующей нажатой последовательности нот.
+Код частично адаптирован из https://github.com/Conchylicultor/MusicGenerator
 """
 
 import collections
