@@ -1,4 +1,6 @@
-""" Модуль-менеджер, управление классами
+""" 
+Модуль-менеджер, управление классами
+Код частично адаптирован из https://github.com/Conchylicultor/MusicGenerator
 """
 
 from collections import OrderedDict
