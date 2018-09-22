@@ -1,5 +1,6 @@
 """
 Иерархическая структура данных в композиции
+Код частично адаптирован из https://github.com/Conchylicultor/MusicGenerator
 """
 
 import operator  # 
